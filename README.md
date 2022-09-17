@@ -1,1 +1,2 @@
 # odin_recipes
+In this lesson I am practicing GIT commands. I created a new repo, added it to my local machine, and will now make edits that i will commit. Later in this lesson i am going to be building a recipe website.
